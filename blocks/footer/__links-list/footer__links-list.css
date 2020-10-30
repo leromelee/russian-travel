@@ -3,6 +3,7 @@
   margin: 0;
   display: flex;
   list-style: none;
+  flex-wrap: wrap;
 }
 
 @media (max-width: 710px) {
@@ -10,5 +11,6 @@
     flex-direction: column;
     align-items: flex-start;
     margin-bottom: 48px;
+    
   }
 }

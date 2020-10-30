@@ -46,3 +46,15 @@
     margin-bottom: 49px;
   }
 }
+
+@media (max-width: 320px) {
+  .place {
+    grid-template-areas: 
+    'place__title'
+    'place__image'
+    'place__text';
+    column-gap: 0;
+    row-gap: 32px;
+    margin-bottom: 49px;
+  }
+}
