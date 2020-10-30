@@ -1,0 +1,10 @@
+.place__website {
+  align-self: end;
+  grid-area: place__website;
+}
+
+@media (max-width: 320px) {
+  .place__website {
+    display: none;
+  }
+}

@@ -1,0 +1,9 @@
+.footer__link-point {
+  margin: 0;
+}
+
+@media (max-width: 720px) {
+  .footer__link-point {
+    margin-bottom: 32px;
+  }
+}

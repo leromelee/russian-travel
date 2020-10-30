@@ -1,0 +1,8 @@
+.header__lang-point {
+  padding: 0;
+  margin: 0 18px 0 0;
+}
+
+.header__lang-point:last-of-type {
+  margin: 0;
+}
